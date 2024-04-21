@@ -1,0 +1,61 @@
+CCN / Security code was not matched by the processor
+DCARDREFUSED:211:CVV2 DECLINED
+Invalid postal code and cvv
+Security code was not matched by the processor
+Card Issuer Declined CVV (2010)
+Card Issuer Declined CVV
+CVD ERROR
+CVC Declined
+Aprovved CCN
+2010: Card Issuer Declined CVV (C2 : CVV2 DECLINED)
+Security code was not matched by the processor
+★LIVE CNN★
+2001 Insufficient Funds
+Charged $1
+Charged $2
+Charged $3
+Charged $4
+Charged $5
+Charged $6
+Charged $7
+Charged $8
+Charged $9
+Charged $10
+Charged $11
+Charged $12
+Charged $13
+Charged $14
+Charged $16
+Charged $17
+Charged $18
+Not Funds \ 2001 Insufficient Funds
+Charged $15
+Insufficient funds
+Your card's security code is incorrect
+succeeded
+ult ➸ Approved!
+Approved (1000)
+CCN / Incorrect Cvc
+AVS check failed
+Invalid card verification number
+𝐬𝐞: Approved
+se ↳  Approved
+Gateway Rejected: cvv
+CCN CARD / 2010 Card Issuer Declined CVV
+Insufficient Funds(2001)
+Gateway Rejected: avs_and_cvv
+★Insufficient funds★
+INVALID_SECURITY_CODE
+1000: Approved
+CVC Declined
+Subscription Complete
+CARGO COMPLETADO $10.00 🤑
+CVV2 Mismatch
+CVV2 DECLINED
+Gateway Rejected: avs
+it -» Approved
+𝙡𝙩 -» Approved
+Request was processed successfully.
+This transaction cannot be processed. Please enter a valid Credit Card Verification Number.
+Approved! ✅ CVV: M | AVS: U
+2010 Card Issuer Declined CVV

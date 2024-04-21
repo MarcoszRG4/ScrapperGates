@@ -1,0 +1,9 @@
+Status code 2010: Card Issuer Declined CVV (C2 : CVV2 DECLINED)
+Status code cvv: Gateway Rejected: cvv
+Status code 2001: Insufficient Funds (51 : DECLINED)
+Gateway Decline: This transaction cannot be processed. Please enter a valid Credit Card Verification Number.
+Charged
+Approved
+The card has reached the credit limit
+Invalid card verification number
+CVV2 Mismatch: 15004-This transaction cannot be processed. Please enter a valid Credit Card Verification Number. - AVS: XXN - CVV: N
