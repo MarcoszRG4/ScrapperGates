@@ -85,7 +85,7 @@ async def handler(event):
             if gate_random == braintree_auth6x:
                 gatewayname = 'Braintree+PayJunction Auth'
             elif gate_random == PayflowAVS:
-                gatewayname = 'Payflow'
+                gatewayname = 'PayflowAVS'
             elif gate_random == ShopiGate:
                 gatewayname = 'Shopify + Cybersource'
         
